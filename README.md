@@ -1,5 +1,5 @@
 ![la_ruta_del_titanic_](https://github.com/NicholasSerrano/Data_titanic/assets/161484895/baeb3007-5739-427c-8c23-8196787d53a3)
-Repositorio de Datos del Titanic
+_Repositorio de Datos del Titanic_
 
 Este repositorio contiene un conjunto de datos detallado sobre los pasajeros del famoso transatlántico RMS Titanic, que se hundió trágicamente en su viaje inaugural en 1912. 
 El conjunto de datos proporciona información sobre diversos aspectos de los pasajeros, incluyendo su edad, género, clase de pasajero, puerto de embarque, tarifa del boleto, 
